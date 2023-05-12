@@ -34,4 +34,5 @@ About the model
 The ViT-GPT2 model is a combination of the Vision Transformer (ViT) and the GPT-2 language model. The ViT-GPT2 model is capable of generating captions for images by first encoding the image using the ViT and then generating text using the GPT-2 language model.
 
 Author
+
 This app was created by Madan S.
