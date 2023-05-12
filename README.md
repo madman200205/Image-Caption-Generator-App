@@ -8,11 +8,8 @@ Requirements
 The following packages are required to run this app:
 
 streamlit
-
 transformers
-
 torch
-
 PIL
 
 You can install them using the following command:
